@@ -183,3 +183,4 @@ cython_debug/
 /.idea/ruff.xml
 /.vscode/settings.json
 /.idea/vcs.xml
+/.idea/codeStyles/codeStyleConfig.xml
