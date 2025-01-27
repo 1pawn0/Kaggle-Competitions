@@ -171,3 +171,15 @@ cython_debug/
 .pypirc
 /.cadence/
 /GenAI-APIs/
+/.idea/dictionaries/ali.xml
+/.idea/conventionalCommit.xml
+/.idea/csv-editor.xml
+/.idea/git_toolbox_blame.xml
+/.idea/git_toolbox_prj.xml
+/.idea/Kaggle-Competitions.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/ruff.xml
+/.vscode/settings.json
+/.idea/vcs.xml
