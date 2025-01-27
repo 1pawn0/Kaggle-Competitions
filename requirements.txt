@@ -6,3 +6,4 @@ kaggle
 kagglehub
 ipywidgets
 notebook
+httpx
