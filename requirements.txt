@@ -4,3 +4,5 @@ polars
 scikit-learn
 kaggle
 kagglehub
+ipywidgets
+notebook
