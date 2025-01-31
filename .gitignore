@@ -186,3 +186,6 @@ cython_debug/
 /.idea/codeStyles/codeStyleConfig.xml
 /Competition-Notebooks/spaceship-titanic.zip
 /.idea/GitCommitMessageStorage.xml
+!/.vscode/extensions.json
+/.vscode/extensions.json
+/.idea/compiler.xml
