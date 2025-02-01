@@ -189,3 +189,8 @@ cython_debug/
 !/.vscode/extensions.json
 /.vscode/extensions.json
 /.idea/compiler.xml
+/.idea/workspace.xml
+.idea/
+/.idea/
+.idea
+/.idea
