@@ -7,3 +7,4 @@ kagglehub
 ipywidgets
 notebook
 httpx
+jupyter
