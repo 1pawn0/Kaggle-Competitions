@@ -8,3 +8,6 @@ ipywidgets
 notebook
 httpx
 jupyter
+
+ruff
+ruff-lsp

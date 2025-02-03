@@ -197,3 +197,8 @@ cython_debug/
 !/Competition-Notebooks/Spaceship-Titanic/test_df.parquet
 
 !/Competition-Notebooks/Spaceship-Titanic/train_df.parquet
+.dvcignore
+.dvc/config
+.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
+Competition-Notebooks/Home-Data-for-ML-Course/dvc.yaml
+Competition-Notebooks/Home-Data-for-ML-Course/dvclive/metrics.json
