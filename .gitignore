@@ -202,3 +202,5 @@ cython_debug/
 .jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
 Competition-Notebooks/Home-Data-for-ML-Course/dvc.yaml
 Competition-Notebooks/Home-Data-for-ML-Course/dvclive/metrics.json
+codeium-jupyter/config.json
+.jupyter/desktop-settings.json
